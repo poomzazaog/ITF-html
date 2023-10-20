@@ -2,9 +2,27 @@
     text-align: center;
     margin: 0 auto;
     width: 50%;
+    color: rgb(13, 226, 241);
+}
+
+.center-text1 {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    color: rgb(241, 219, 15);
+    border: 10px solid #0c9cf0;
 }
 
 .image {
     width: 400px;
     height: 400px;
+    padding: 20px;
+}
+
+.IG {
+    color: aqua;
+}
+
+body {
+    background-image: url(ima/wallpaper.jpg);
 }
