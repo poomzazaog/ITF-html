@@ -1,0 +1,10 @@
+.center-text {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+}
